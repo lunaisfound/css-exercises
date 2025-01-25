@@ -1,0 +1,15 @@
+.odd-elements {
+  background-color: #f1a1b8;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#sec-element {
+  color: #1c31d0;
+  font-size: 36px;
+}
+.adjust-font-size {
+  font-size: 24px;
+}
+#fourth-element {
+  background-color: #1ce860;
+  font-weight: bold;
+}
